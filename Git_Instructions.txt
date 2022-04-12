@@ -1,0 +1,10 @@
+Git setup instructions -
+1. Install Git from google. Use all Default Settings
+2. Generate SSH Key on Your PC. See github's instructions for generating ssh key
+3. Add the ssh key to your github account settings. See github's instructions for adding ssh key
+4. Click the top right Code button, and follow instructions to "clone" the repo
+5. Make changes to files
+6. Then do git add
+7. Then do git commit
+8. Then do git push
+Done
