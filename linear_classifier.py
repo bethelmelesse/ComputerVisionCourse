@@ -6,7 +6,7 @@ train_images, train_labels, test_images, test_labels = cifar10(path=None)
 def predict(W, b, X):
     # TODO: Fill out this function, make it return the correct Y = XW+b
     # X is of shape N*D1 array, W is D1*D2 array, b is D2 array.
-    dot_prod = np.dot(X, W)
+    dot_prod = np.matmul(X, W)
     Y = dot_prod + b
     max_index = np.argmax(Y, axis=1)
 
