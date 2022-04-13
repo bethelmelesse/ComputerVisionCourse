@@ -5,7 +5,7 @@ Part 1 implement 1-Nearest Neighbour classfier  --------------- done
 
 Part 2 implement K-Nearest Neighbour classifier --------------- done
 
-Part 5 - given a W and b, implement predict of linear classifier (def predict(W, b, X)).
+Part 5 - given a W and b, implement predict of linear classifier (def predict(W, b, X)). ------------ done
 
 Part 3 implement L1 loss, given inputs W, b, X, Y
 
